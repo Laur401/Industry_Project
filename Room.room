@@ -20,13 +20,13 @@
         "z": 0.0
     },
     "cameraEditPosition": {
-        "x": 0.7438526153564453,
-        "y": 3.05843448638916,
-        "z": -2.3858537673950197
+        "x": 1.344322919845581,
+        "y": 2.4793026447296144,
+        "z": 0.4568655490875244
     },
     "cameraEditRotation": {
-        "x": 21.70221519470215,
-        "y": 337.6448059082031,
+        "x": 14.437335968017579,
+        "y": 285.488037109375,
         "z": 0.0
     },
     "useNonLegacyLights": true,
@@ -64,7 +64,7 @@
                 },
                 "scale": {
                     "x": 1.0,
-                    "y": 1.0000020265579224,
+                    "y": 1.0000022649765015,
                     "z": 0.9999997615814209
                 }
             },
@@ -147,9 +147,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000100135803223,
-                    "y": 1.0000050067901612,
-                    "z": 1.0000050067901612
+                    "x": 1.0000109672546387,
+                    "y": 1.0000054836273194,
+                    "z": 1.0000054836273194
                 }
             },
             "isObstacle": true,
@@ -218,9 +218,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.0000040531158448,
+                    "x": 1.000004529953003,
                     "y": 1.0,
-                    "z": 1.0000040531158448
+                    "z": 1.000004529953003
                 }
             },
             "isObstacle": true,
@@ -583,9 +583,9 @@
                     "z": 8.142220079589146e-13
                 },
                 "scale": {
-                    "x": 0.9999988675117493,
+                    "x": 0.9999987483024597,
                     "y": 0.9999999403953552,
-                    "z": 0.9999977350234985
+                    "z": 0.9999974966049194
                 }
             },
             "isObstacle": false,
@@ -1004,7 +1004,7 @@
                     "locks": [
                         {
                             "instanceID": {
-                                "value": 20
+                                "value": 124
                             },
                             "passwordIndex": -500
                         }
@@ -1401,8 +1401,8 @@
                 },
                 "scale": {
                     "x": 0.11189384013414383,
-                    "y": 0.1118946447968483,
-                    "z": 0.1118946298956871
+                    "y": 0.11189470440149307,
+                    "z": 0.11189468950033188
                 }
             },
             "isObstacle": false,
@@ -1548,9 +1548,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.3784368336200714,
+                    "x": 0.3784371316432953,
                     "y": 0.07815373688936234,
-                    "z": 0.5326571464538574
+                    "z": 0.5326573848724365
                 }
             },
             "isObstacle": false,
@@ -1668,8 +1668,8 @@
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0000040531158448,
-                    "y": 0.596643328666687,
+                    "x": 1.000004529953003,
+                    "y": 0.5966436862945557,
                     "z": 0.3362094461917877
                 }
             },
@@ -1837,9 +1837,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.3701529502868653,
+                    "x": 1.3701531887054444,
                     "y": 1.370149850845337,
-                    "z": 1.3701529502868653
+                    "z": 1.3701531887054444
                 }
             },
             "isObstacle": true,
@@ -1898,7 +1898,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -0.9816882014274597,
+                    "x": -0.9816880822181702,
                     "y": 0.4846259653568268,
                     "z": 15.147879600524903
                 },
@@ -1908,9 +1908,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.370153546333313,
+                    "x": 1.370153784751892,
                     "y": 1.3701497316360474,
-                    "z": 1.370153546333313
+                    "z": 1.370153784751892
                 }
             },
             "isObstacle": false,
@@ -2014,7 +2014,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -0.9816874265670776,
+                    "x": -0.9816873073577881,
                     "y": 0.9614267945289612,
                     "z": 14.487435340881348
                 },
@@ -2024,9 +2024,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.3701530694961548,
+                    "x": 1.3701533079147339,
                     "y": 1.3701497316360474,
-                    "z": 1.3701530694961548
+                    "z": 1.3701533079147339
                 }
             },
             "isObstacle": false,
@@ -2130,7 +2130,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -0.9816882014274597,
+                    "x": -0.9816880822181702,
                     "y": 0.9614267945289612,
                     "z": 15.147879600524903
                 },
@@ -2140,9 +2140,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.3701530694961548,
+                    "x": 1.3701533079147339,
                     "y": 1.3701497316360474,
-                    "z": 1.3701530694961548
+                    "z": 1.3701533079147339
                 }
             },
             "isObstacle": false,
@@ -2246,7 +2246,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -0.9816874265670776,
+                    "x": -0.9816873073577881,
                     "y": 0.7234400510787964,
                     "z": 14.487435340881348
                 },
@@ -2256,9 +2256,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.3701530694961548,
+                    "x": 1.3701533079147339,
                     "y": 1.3701497316360474,
-                    "z": 1.3701530694961548
+                    "z": 1.3701533079147339
                 }
             },
             "isObstacle": false,
@@ -2372,9 +2372,9 @@
                     "z": -0.000013147185200068634
                 },
                 "scale": {
-                    "x": 1.3753139972686768,
+                    "x": 1.37531316280365,
                     "y": 1.3753103017807007,
-                    "z": 1.3753138780593873
+                    "z": 1.3753135204315186
                 }
             },
             "isObstacle": false,
@@ -2478,7 +2478,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -0.9816874265670776,
+                    "x": -0.9816873073577881,
                     "y": 0.4846259653568268,
                     "z": 14.487435340881348
                 },
@@ -2488,9 +2488,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.3701530694961548,
+                    "x": 1.3701533079147339,
                     "y": 1.3701497316360474,
-                    "z": 1.3701530694961548
+                    "z": 1.3701533079147339
                 }
             },
             "isObstacle": false,
@@ -2594,8 +2594,8 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -1.2247897386550904,
-                    "y": 0.6257389187812805,
+                    "x": -1.2247898578643799,
+                    "y": 0.625738799571991,
                     "z": 15.126041412353516
                 },
                 "rotation": {
@@ -2604,8 +2604,8 @@
                     "z": 180.0
                 },
                 "scale": {
-                    "x": 1.0000022649765015,
-                    "y": 1.0000113248825074,
+                    "x": 1.0000015497207642,
+                    "y": 1.0000118017196656,
                     "z": 1.000002384185791
                 }
             },
@@ -3094,14 +3094,14 @@
                     "z": 14.986988067626954
                 },
                 "rotation": {
-                    "x": -0.000005008970674680313,
+                    "x": -0.000005008972038922366,
                     "y": 270.0,
-                    "z": 0.00000500896385347005
+                    "z": 0.0000050089652177121028
                 },
                 "scale": {
-                    "x": 1.7723175287246705,
+                    "x": 1.7723184823989869,
                     "y": 1.7723110914230347,
-                    "z": 0.5069712996482849
+                    "z": 0.506971538066864
                 }
             },
             "isObstacle": false,
@@ -3171,8 +3171,8 @@
                 },
                 "scale": {
                     "x": 0.28553342819213869,
-                    "y": 0.28553467988967898,
-                    "z": 0.28553467988967898
+                    "y": 0.2855347990989685,
+                    "z": 0.2855347990989685
                 }
             },
             "isObstacle": false,
@@ -3245,9 +3245,9 @@
                     "z": 180.0
                 },
                 "scale": {
-                    "x": 0.37673330307006838,
-                    "y": 0.37673497200012209,
-                    "z": 0.37673330307006838
+                    "x": 0.37673360109329226,
+                    "y": 0.3767353892326355,
+                    "z": 0.37673360109329226
                 }
             },
             "isObstacle": false,
@@ -3403,8 +3403,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.670281171798706,
-                    "y": 1.0037627220153809,
+                    "x": 1.6702818870544434,
+                    "y": 1.0037620067596436,
                     "z": 1.0037670135498047
                 }
             },
@@ -3501,8 +3501,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.6702810525894166,
-                    "y": 1.0037628412246705,
+                    "x": 1.6702815294265748,
+                    "y": 1.003762125968933,
                     "z": 1.0037670135498047
                 }
             },
@@ -3625,8 +3625,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.6702810525894166,
-                    "y": 1.0037628412246705,
+                    "x": 1.6702815294265748,
+                    "y": 1.003762125968933,
                     "z": 1.0037670135498047
                 }
             },
@@ -3749,8 +3749,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.6702810525894166,
-                    "y": 1.0037628412246705,
+                    "x": 1.6702815294265748,
+                    "y": 1.003762125968933,
                     "z": 1.0037670135498047
                 }
             },
@@ -3873,8 +3873,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.6702810525894166,
-                    "y": 1.0037628412246705,
+                    "x": 1.6702815294265748,
+                    "y": 1.003762125968933,
                     "z": 1.0037670135498047
                 }
             },
@@ -3997,8 +3997,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.6702810525894166,
-                    "y": 1.0037628412246705,
+                    "x": 1.6702815294265748,
+                    "y": 1.003762125968933,
                     "z": 1.0037670135498047
                 }
             },
@@ -4121,8 +4121,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.6702810525894166,
-                    "y": 1.0037628412246705,
+                    "x": 1.6702815294265748,
+                    "y": 1.003762125968933,
                     "z": 1.0037670135498047
                 }
             },
@@ -4245,8 +4245,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.6702810525894166,
-                    "y": 1.0037628412246705,
+                    "x": 1.6702815294265748,
+                    "y": 1.003762125968933,
                     "z": 1.0037670135498047
                 }
             },
@@ -4369,8 +4369,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.6702810525894166,
-                    "y": 1.0037628412246705,
+                    "x": 1.6702815294265748,
+                    "y": 1.003762125968933,
                     "z": 1.0037670135498047
                 }
             },
@@ -4493,8 +4493,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.6702810525894166,
-                    "y": 1.0037628412246705,
+                    "x": 1.6702815294265748,
+                    "y": 1.003762125968933,
                     "z": 1.0037670135498047
                 }
             },
@@ -4617,8 +4617,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.6702810525894166,
-                    "y": 1.0037628412246705,
+                    "x": 1.6702815294265748,
+                    "y": 1.003762125968933,
                     "z": 1.0037670135498047
                 }
             },
@@ -4741,8 +4741,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.6702810525894166,
-                    "y": 1.0037628412246705,
+                    "x": 1.6702815294265748,
+                    "y": 1.003762125968933,
                     "z": 1.0037670135498047
                 }
             },
@@ -4865,8 +4865,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.6702810525894166,
-                    "y": 1.0037628412246705,
+                    "x": 1.6702815294265748,
+                    "y": 1.003762125968933,
                     "z": 1.0037670135498047
                 }
             },
@@ -4983,14 +4983,14 @@
                     "z": 14.88426399230957
                 },
                 "rotation": {
-                    "x": 8.699074745178223,
+                    "x": 8.699077606201172,
                     "y": 270.05267333984377,
-                    "z": 0.00000475040133096627
+                    "z": 0.0
                 },
                 "scale": {
-                    "x": 0.07774856686592102,
-                    "y": 0.024409141391515733,
-                    "z": 0.07928857207298279
+                    "x": 0.07774864882230759,
+                    "y": 0.024409139528870584,
+                    "z": 0.07928858697414398
                 }
             },
             "isObstacle": false,
@@ -5074,8 +5074,8 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.3620549738407135,
-                    "y": 0.6024660468101502,
+                    "x": 0.3620547950267792,
+                    "y": 0.6024659872055054,
                     "z": 0.3620569109916687
                 }
             },
@@ -5173,9 +5173,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.3620555102825165,
-                    "y": 0.6024666428565979,
-                    "z": 0.3620571196079254
+                    "x": 0.36205554008483889,
+                    "y": 0.6024667024612427,
+                    "z": 0.36205726861953738
                 }
             },
             "isObstacle": false,
@@ -5262,14 +5262,14 @@
                     "z": 13.72091293334961
                 },
                 "rotation": {
-                    "x": 9.670211511547678e-7,
+                    "x": 9.670213785284432e-7,
                     "y": 180.0,
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 1.0360678434371949,
-                    "y": 1.0360679626464844,
-                    "z": 1.0360705852508546
+                    "x": 1.036068320274353,
+                    "y": 1.0360684394836426,
+                    "z": 1.036071538925171
                 }
             },
             "isObstacle": false,
@@ -5355,8 +5355,8 @@
                 },
                 "scale": {
                     "x": 1.0,
-                    "y": 1.0000016689300538,
-                    "z": 1.0000016689300538
+                    "y": 1.000002145767212,
+                    "z": 1.000002145767212
                 }
             },
             "isObstacle": false,
@@ -5424,7 +5424,7 @@
                     "z": 13.868395805358887
                 },
                 "rotation": {
-                    "x": -0.0000034150946248701077,
+                    "x": 0.0,
                     "y": 270.0,
                     "z": 89.99999237060547
                 },
@@ -5511,14 +5511,14 @@
                     "z": 13.72091293334961
                 },
                 "rotation": {
-                    "x": 9.670211511547678e-7,
+                    "x": 9.670213785284432e-7,
                     "y": 180.0,
                     "z": 90.0
                 },
                 "scale": {
-                    "x": 0.04872290790081024,
-                    "y": 0.5479428768157959,
-                    "z": 0.7021297216415405
+                    "x": 0.04872294142842293,
+                    "y": 0.5479430556297302,
+                    "z": 0.7021304965019226
                 }
             },
             "isObstacle": false,
@@ -5743,15 +5743,15 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.230000302195549,
+                    "x": 0.23000048100948335,
                     "y": 0.23000000417232514,
-                    "z": 0.230000302195549
+                    "z": 0.23000048100948335
                 }
             },
             "isObstacle": false,
             "exportName": "",
             "elementNameSet": true,
-            "elementName": "Empty",
+            "elementName": "Empty (DO NOT REMOVE)",
             "playerVariableNameSet": true,
             "playerVariableName": "g_rootObject",
             "pickableType": 0,
@@ -5815,8 +5815,8 @@
                 },
                 "scale": {
                     "x": 0.24201776087284089,
-                    "y": 0.2420184463262558,
-                    "z": 0.2420184463262558
+                    "y": 0.24201856553554536,
+                    "z": 0.24201856553554536
                 }
             },
             "isObstacle": false,
@@ -5889,9 +5889,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 1.3515061140060425,
+                    "x": 1.3515064716339112,
                     "y": 0.028240010142326356,
-                    "z": 0.5180114507675171
+                    "z": 0.5180118083953857
                 }
             },
             "isObstacle": false,
@@ -6007,6 +6007,2152 @@
             "activatorComponent": [],
             "editorLight": [],
             "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "Plane"
+            },
+            "ID": {
+                "value": 96
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -36.84141159057617,
+                    "y": 0.005120975896716118,
+                    "z": 29.486650466918947
+                },
+                "rotation": {
+                    "x": 270.0279846191406,
+                    "y": 90.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 68.77733612060547,
+                    "y": 76.10054779052735,
+                    "z": 17.246816635131837
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Plane",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [
+                {
+                    "fileName": "roadTexture_25.png",
+                    "originalTextureName": "Plane",
+                    "materials": [
+                        {
+                            "path": "",
+                            "index": 0
+                        }
+                    ]
+                }
+            ],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlRoads/road_straight.glb-road_straight.glb"
+            },
+            "ID": {
+                "value": 97
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -16.82057762145996,
+                    "y": -0.005008285865187645,
+                    "z": 7.9405975341796879
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.00001001791224553017,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 2.0026698112487795,
+                    "y": 2.0026698112487795,
+                    "z": 2.0026698112487795
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "road_straight",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlRoads/road_straight.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlRoads/road_straight.glb-road_straight.glb"
+            },
+            "ID": {
+                "value": 98
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -18.812135696411134,
+                    "y": -0.005008285865187645,
+                    "z": 7.9405975341796879
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.00001001791224553017,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 2.0026698112487795,
+                    "y": 2.0026698112487795,
+                    "z": 2.0026698112487795
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "road_straight",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlRoads/road_straight.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlRoads/road_straight.glb-road_straight.glb"
+            },
+            "ID": {
+                "value": 99
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -20.809297561645509,
+                    "y": -0.005008285865187645,
+                    "z": 7.9405975341796879
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.00001001791224553017,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 2.0026698112487795,
+                    "y": 2.0026698112487795,
+                    "z": 2.0026698112487795
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "road_straight",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlRoads/road_straight.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlRoads/road_straight.glb-road_straight.glb"
+            },
+            "ID": {
+                "value": 100
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -22.801286697387697,
+                    "y": -0.005008285865187645,
+                    "z": 7.9405975341796879
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.00001001791224553017,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 2.0026698112487795,
+                    "y": 2.0026698112487795,
+                    "z": 2.0026698112487795
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "road_straight",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlRoads/road_straight.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlRoads/road_straight.glb-road_straight.glb"
+            },
+            "ID": {
+                "value": 101
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -24.796201705932618,
+                    "y": -0.005008285865187645,
+                    "z": 7.940595626831055
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.00001001791224553017,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 2.0026698112487795,
+                    "y": 2.0026698112487795,
+                    "z": 2.0026698112487795
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "road_straight",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlRoads/road_straight.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlRoads/road_straight.glb-road_straight.glb"
+            },
+            "ID": {
+                "value": 102
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -26.798585891723634,
+                    "y": -0.005008285865187645,
+                    "z": 7.940598487854004
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.00001001791224553017,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 2.0026698112487795,
+                    "y": 2.0026698112487795,
+                    "z": 2.0026698112487795
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "road_straight",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlRoads/road_straight.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlRoads/road_straight.glb-road_straight.glb"
+            },
+            "ID": {
+                "value": 103
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -28.79888343811035,
+                    "y": -0.005008285865187645,
+                    "z": 7.94059944152832
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.00001001791224553017,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 2.0026698112487795,
+                    "y": 2.0026698112487795,
+                    "z": 2.0026698112487795
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "road_straight",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlRoads/road_straight.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlRoads/road_curveIntersection.glb-road_curveIntersection.glb"
+            },
+            "ID": {
+                "value": 104
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -31.800981521606447,
+                    "y": -0.005907519720494747,
+                    "z": 11.946995735168457
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 180.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 2.0026702880859377,
+                    "y": 2.0026698112487795,
+                    "z": 2.0026702880859377
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "road_curveIntersection",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlRoads/road_curveIntersection.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlRoads/road_straight.glb-road_straight.glb"
+            },
+            "ID": {
+                "value": 105
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -34.79638671875,
+                    "y": -0.005008285865187645,
+                    "z": 7.94059944152832
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.00001001791224553017,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 2.0026698112487795,
+                    "y": 2.0026698112487795,
+                    "z": 2.0026698112487795
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "road_straight",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlRoads/road_straight.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlRoads/road_straight.glb-road_straight.glb"
+            },
+            "ID": {
+                "value": 106
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -34.30400848388672,
+                    "y": -0.005008285865187645,
+                    "z": 28.346609115600587
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 90.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 2.0026793479919435,
+                    "y": 2.0026698112487795,
+                    "z": 2.0026793479919435
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "road_straight",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlRoads/road_straight.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlModularBuildings/building-sample-house-b.glb-building-sample-house-b.glb"
+            },
+            "ID": {
+                "value": 107
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -47.96574020385742,
+                    "y": -0.257588654756546,
+                    "z": 36.8606071472168
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 90.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 3.215492010116577,
+                    "y": 3.215468168258667,
+                    "z": 3.215492010116577
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "building-sample-house-b",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlModularBuildings/building-sample-house-b.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlModularBuildings/building-sample-house-c.glb-building-sample-house-c.glb"
+            },
+            "ID": {
+                "value": 108
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -48.219058990478519,
+                    "y": -0.25844183564186098,
+                    "z": 42.93029022216797
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 90.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 3.215492010116577,
+                    "y": 3.215468168258667,
+                    "z": 3.215492010116577
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "building-sample-house-c",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlModularBuildings/building-sample-house-c.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlModularBuildings/building-sample-house-a.glb-building-sample-house-a.glb"
+            },
+            "ID": {
+                "value": 109
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -36.489952087402347,
+                    "y": -0.15837612748146058,
+                    "z": 46.89065170288086
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 180.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 3.6223108768463136,
+                    "y": 3.622310161590576,
+                    "z": 3.6223108768463136
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "building-sample-house-a",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlModularBuildings/building-sample-house-a.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlModularBuildings/building-sample-house-a.glb-building-sample-house-a.glb"
+            },
+            "ID": {
+                "value": 110
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -32.38541030883789,
+                    "y": -0.15837612748146058,
+                    "z": 46.89065170288086
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 180.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 3.6223108768463136,
+                    "y": 3.622310161590576,
+                    "z": 3.6223108768463136
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "building-sample-house-a",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlModularBuildings/building-sample-house-a.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlModularBuildings/building-sample-house-a.glb-building-sample-house-a.glb"
+            },
+            "ID": {
+                "value": 111
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -28.338790893554689,
+                    "y": -0.15837612748146058,
+                    "z": 46.89065170288086
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 180.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 3.6223108768463136,
+                    "y": 3.622310161590576,
+                    "z": 3.6223108768463136
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "building-sample-house-a",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlModularBuildings/building-sample-house-a.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlModularBuildings/building-sample-house-a.glb-building-sample-house-a.glb"
+            },
+            "ID": {
+                "value": 112
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -24.390308380126954,
+                    "y": -0.15837612748146058,
+                    "z": 46.89065170288086
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 180.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 3.6223108768463136,
+                    "y": 3.622310161590576,
+                    "z": 3.6223108768463136
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "building-sample-house-a",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlModularBuildings/building-sample-house-a.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlRoads/road_straight.glb-road_straight.glb"
+            },
+            "ID": {
+                "value": 113
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -34.30400466918945,
+                    "y": -0.005008285865187645,
+                    "z": 30.33530616760254
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 90.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 2.0026803016662599,
+                    "y": 2.0026698112487795,
+                    "z": 2.0026803016662599
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "road_straight",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlRoads/road_straight.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlRoads/road_straight.glb-road_straight.glb"
+            },
+            "ID": {
+                "value": 114
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -34.30400085449219,
+                    "y": -0.005008285865187645,
+                    "z": 32.336753845214847
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 90.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 2.0026803016662599,
+                    "y": 2.0026698112487795,
+                    "z": 2.0026803016662599
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "road_straight",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlRoads/road_straight.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/shop.glb-shop.glb"
+            },
+            "ID": {
+                "value": 116
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -33.17665481567383,
+                    "y": 0.19470056891441346,
+                    "z": 34.26654052734375
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 180.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 0.06940114498138428,
+                    "y": 0.06940114498138428,
+                    "z": 0.06940114498138428
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "shop",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "_CustomModels/shop.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlModularBuildings/building-sample-house-b.glb-building-sample-house-b.glb"
+            },
+            "ID": {
+                "value": 117
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -42.32498550415039,
+                    "y": -0.257586270570755,
+                    "z": 48.27952194213867
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 180.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 3.2154734134674074,
+                    "y": 3.215468168258667,
+                    "z": 3.2154734134674074
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "building-sample-house-b",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlModularBuildings/building-sample-house-b.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "TransparentSingleSided"
+            },
+            "ID": {
+                "value": 122
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -32.29266357421875,
+                    "y": 1.6342819929122925,
+                    "z": 11.714094161987305
+                },
+                "rotation": {
+                    "x": 270.0,
+                    "y": 270.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 8.623031616210938,
+                    "y": 8.623031616210938,
+                    "z": 8.623031616210938
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Go to Market",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [
+                {
+                    "isRemote": false,
+                    "isSticky": false,
+                    "duration": 0.10000000149011612,
+                    "outputValueApplied": true,
+                    "outputValue": 1,
+                    "bounce": false,
+                    "loop": false,
+                    "autoplay": false,
+                    "delay": 0.0,
+                    "pauseOnLoop": 0.0,
+                    "pauseOnBounce": 0.0,
+                    "canPickupDuringAnimation": false,
+                    "appliedPickupInZoomFix": true,
+                    "playerVariableName": "",
+                    "interpolation": 0,
+                    "remoteTargets": [],
+                    "pivot": {
+                        "local": true,
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        }
+                    },
+                    "locks": [
+                        {
+                            "instanceID": {
+                                "value": 20
+                            },
+                            "passwordIndex": -500
+                        }
+                    ],
+                    "useRigidbody": false,
+                    "useRigidbodyApplied": true
+                }
+            ],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "TransparentSingleSided"
+            },
+            "ID": {
+                "value": 123
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -34.24862289428711,
+                    "y": 1.6342819929122925,
+                    "z": 9.397478103637696
+                },
+                "rotation": {
+                    "x": 270.0,
+                    "y": 180.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 8.623069763183594,
+                    "y": 8.623050689697266,
+                    "z": 8.623050689697266
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Continue Walking",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [
+                {
+                    "isRemote": false,
+                    "isSticky": false,
+                    "duration": 0.10000000149011612,
+                    "outputValueApplied": true,
+                    "outputValue": 1,
+                    "bounce": false,
+                    "loop": false,
+                    "autoplay": false,
+                    "delay": 0.0,
+                    "pauseOnLoop": 0.0,
+                    "pauseOnBounce": 0.0,
+                    "canPickupDuringAnimation": false,
+                    "appliedPickupInZoomFix": true,
+                    "playerVariableName": "",
+                    "interpolation": 0,
+                    "remoteTargets": [],
+                    "pivot": {
+                        "local": true,
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        }
+                    },
+                    "locks": [
+                        {
+                            "instanceID": {
+                                "value": 20
+                            },
+                            "passwordIndex": -500
+                        }
+                    ],
+                    "useRigidbody": false,
+                    "useRigidbodyApplied": true
+                }
+            ],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "Base/Teleport"
+            },
+            "ID": {
+                "value": 124
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -16.902496337890626,
+                    "y": 0.9472960233688355,
+                    "z": 9.43927001953125
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 270.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 2.000002861022949,
+                    "y": 2.0,
+                    "z": 2.000002861022949
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Teleport",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [
+                {
+                    "teleportAll": false,
+                    "changeRotation": true,
+                    "changeRotationApplied": true
+                }
+            ],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "Base/Obstacle"
+            },
+            "ID": {
+                "value": 125
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -22.150951385498048,
+                    "y": 1.7283962965011597,
+                    "z": 11.864584922790528
+                },
+                "rotation": {
+                    "x": 270.0,
+                    "y": 180.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 15.995108604431153,
+                    "y": 1.000002145767212,
+                    "z": 3.9520204067230226
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "Obstacle",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/KenneynlRoads/road_straight.glb-road_straight.glb"
+            },
+            "ID": {
+                "value": 126
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": -34.30400848388672,
+                    "y": -0.005008285865187645,
+                    "z": 20.058446884155275
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 90.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 15.251916885375977,
+                    "y": 2.0026698112487795,
+                    "z": 2.002683162689209
+                }
+            },
+            "isObstacle": true,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "road_straight",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "KenneynlRoads/road_straight.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
             "postProcessing": [],
             "scriptComponent": [],
             "finish": [],
@@ -6222,6 +8368,546 @@
                 },
                 {
                     "value": "Wall/OmegaWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -7,
+            "y": 4,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -8,
+            "y": 4,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -7,
+            "y": 5,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -8,
+            "y": 5,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -9,
+            "y": 5,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -9,
+            "y": 4,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -10,
+            "y": 5,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -10,
+            "y": 4,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -11,
+            "y": 4,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -11,
+            "y": 5,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -9,
+            "y": 3,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -8,
+            "y": 3,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -7,
+            "y": 3,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -10,
+            "y": 3,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                }
+            ],
+            "floorPaintTextures": [],
+            "ceilingPaintTextures": [],
+            "wallPaintTextures0": [],
+            "wallPaintTextures1": [],
+            "wallPaintTextures2": [],
+            "wallPaintTextures3": []
+        },
+        {
+            "x": -11,
+            "y": 3,
+            "floorID": {
+                "value": "Floor/_EmptyFloor"
+            },
+            "ceilingID": {
+                "value": "Ceiling/_EmptyCeiling"
+            },
+            "wallIDs": [
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
+                },
+                {
+                    "value": "Wall/_EmptyWall"
                 }
             ],
             "floorPaintTextures": [],
