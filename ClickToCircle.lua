@@ -6,6 +6,9 @@ if callType == LuaCallType.Init then
         animating[i]=false
         animationCounter[i]=0
     end
+    for i, circleButton in pairs(g_circleButton) do
+        --circleButton.remoteOnly = false
+    end
 end
 
 if callType == LuaCallType.SwitchDone then
