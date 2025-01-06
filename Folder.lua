@@ -47,9 +47,11 @@ if callType == LuaCallType.Init then
         
         if VRMode then
             g_folderSwitchFront[i].transform.parent=cover[i]
-            --g_folderSwitchFront[i].pivot = g_folderSwitchFront[i].transform
-            --g_folderSwitchFront[i].originalTransform = g_folderSwitchFront[i].transform
+            g_folderSwitchFront[i].pivot = g_folderSwitchFront[i].transform
+            g_folderSwitchFront[i].originalTransform = g_folderSwitchFront[i].transform
             g_folderSwitchBack[i].transform.parent=back[i]
+            g_folderSwitchBack[i].pivot = g_folderSwitchBack[i].transform
+            g_folderSwitchBack[i].originalTransform = g_folderSwitchBack[i].transform
             
         else
             folder.remoteOnly = false --allows to click when picked up
@@ -80,7 +82,7 @@ end
 
 if callType == LuaCallType.SwitchDone then
     --Start movement
-    if api.contains(g_folder, context) and context.isOn then
+    if api.contains(g_folder, context) or api.contains(g_folderSwitchFront, context) or api.contains(g_folderSwitchBack, context) and context.isOn then
         local index = getIndex(context)
         if animating[index] or not switchActive[index] then return end
         local targetRotation = rotDegrees
