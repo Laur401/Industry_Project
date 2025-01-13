@@ -20,13 +20,13 @@
         "z": 0.0
     },
     "cameraEditPosition": {
-        "x": 35.123268127441409,
-        "y": 5.341734409332275,
-        "z": 13.562520980834961
+        "x": 33.10719680786133,
+        "y": 2.3970346450805666,
+        "z": -14.0045804977417
     },
     "cameraEditRotation": {
-        "x": 31.453632354736329,
-        "y": 99.41770935058594,
+        "x": 354.55413818359377,
+        "y": 272.9624938964844,
         "z": 0.0
     },
     "useNonLegacyLights": true,
@@ -28723,9 +28723,9 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 20.839855194091798,
-                    "y": 0.9759827852249146,
-                    "z": -10.5031099319458
+                    "x": 21.0,
+                    "y": 1.5,
+                    "z": -10.503000259399414
                 },
                 "rotation": {
                     "x": 270.0,
@@ -28734,7 +28734,7 @@
                 },
                 "scale": {
                     "x": 1.0,
-                    "y": 1.0,
+                    "y": 2.0,
                     "z": 1.0
                 }
             },
@@ -28763,7 +28763,18 @@
             "fog": [],
             "sound": [],
             "skybox": [],
-            "swapTextures": [],
+            "swapTextures": [
+                {
+                    "fileName": "Hello.png",
+                    "originalTextureName": "Transparent",
+                    "materials": [
+                        {
+                            "path": "",
+                            "index": 0
+                        }
+                    ]
+                }
+            ],
             "paintTextures": [],
             "openLink": [],
             "activatorComponent": [],
@@ -28976,7 +28987,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": 8.89258098602295,
+                    "x": 8.939718246459961,
                     "y": 1.0510220527648926,
                     "z": -17.709741592407228
                 },
@@ -29481,7 +29492,7 @@
                 "position": {
                     "x": 36.74961471557617,
                     "y": 3.3406591415405275,
-                    "z": 13.81686782836914
+                    "z": 13.75829029083252
                 },
                 "rotation": {
                     "x": 270.0,
@@ -29584,7 +29595,7 @@
                 "position": {
                     "x": 36.407840728759769,
                     "y": 3.3406591415405275,
-                    "z": 14.208232879638672
+                    "z": 14.109590530395508
                 },
                 "rotation": {
                     "x": 270.0,
@@ -29674,7 +29685,7 @@
                 "position": {
                     "x": 36.407840728759769,
                     "y": 3.3406591415405275,
-                    "z": 13.272114753723145
+                    "z": 13.321645736694336
                 },
                 "rotation": {
                     "x": 270.0,
@@ -29737,6 +29748,326 @@
             "activatorComponent": [],
             "editorLight": [],
             "customModel": [],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/BackgroundBlack.glb-BackgroundBlack.glb"
+            },
+            "ID": {
+                "value": 534
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": 31.07461166381836,
+                    "y": 1.0510220527648926,
+                    "z": -17.696794509887697
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 11.106378555297852,
+                    "y": 11.106363296508789,
+                    "z": 11.106378555297852
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "BackgroundBlack",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "_CustomModels/BackgroundBlack.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/BackgroundBlack.glb-BackgroundBlack.glb"
+            },
+            "ID": {
+                "value": 535
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": 20.00248908996582,
+                    "y": 1.0510220527648926,
+                    "z": -28.76803970336914
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 90.0,
+                    "z": 0.0
+                },
+                "scale": {
+                    "x": 11.106382369995118,
+                    "y": 11.106363296508789,
+                    "z": 11.106382369995118
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "BackgroundBlack",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "_CustomModels/BackgroundBlack.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/BackgroundBlack.glb-BackgroundBlack.glb"
+            },
+            "ID": {
+                "value": 536
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": 20.00248908996582,
+                    "y": 12.044516563415528,
+                    "z": -17.68998908996582
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 90.0
+                },
+                "scale": {
+                    "x": 11.106377601623536,
+                    "y": 11.10636043548584,
+                    "z": 11.106377601623536
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "BackgroundBlack",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "_CustomModels/BackgroundBlack.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
+            "postProcessing": [],
+            "scriptComponent": [],
+            "finish": [],
+            "display": [],
+            "slidable": [],
+            "mirror": [],
+            "puzzle": [],
+            "puzzleNeo": [],
+            "editorWater": [],
+            "roulette": [],
+            "editorSetup": []
+        },
+        {
+            "propID": {
+                "value": "custom_/BackgroundBlack.glb-BackgroundBlack.glb"
+            },
+            "ID": {
+                "value": 537
+            },
+            "parentID": {
+                "value": 0
+            },
+            "transform": {
+                "local": false,
+                "position": {
+                    "x": 20.00248908996582,
+                    "y": -9.783002853393555,
+                    "z": -17.68998908996582
+                },
+                "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 270.0
+                },
+                "scale": {
+                    "x": 11.1063814163208,
+                    "y": 11.106364250183106,
+                    "z": 11.106376647949219
+                }
+            },
+            "isObstacle": false,
+            "exportName": "",
+            "elementNameSet": true,
+            "elementName": "BackgroundBlack",
+            "playerVariableNameSet": true,
+            "playerVariableName": "",
+            "pickableType": 0,
+            "updateCloneTypeApplied": true,
+            "updateCloneType": 0,
+            "transparencyOrderOffset": 0,
+            "showSparklesInVR": true,
+            "vrSparklesMode": 0,
+            "rigidbody": [],
+            "_switch": [],
+            "turnable": [],
+            "dial": [],
+            "zoomable": [],
+            "dragTarget": [],
+            "_lock": [],
+            "slot": [],
+            "trigger": [],
+            "teleport": [],
+            "fog": [],
+            "sound": [],
+            "skybox": [],
+            "swapTextures": [],
+            "paintTextures": [],
+            "openLink": [],
+            "activatorComponent": [],
+            "editorLight": [],
+            "customModel": [
+                {
+                    "disableGeneratedCollider": false,
+                    "usedFiles": [
+                        "_CustomModels/BackgroundBlack.glb"
+                    ],
+                    "currentAnimation": -1,
+                    "colliderType": 1
+                }
+            ],
             "postProcessing": [],
             "scriptComponent": [],
             "finish": [],
