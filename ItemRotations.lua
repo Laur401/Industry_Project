@@ -1,7 +1,7 @@
 if callType == LuaCallType.Init then
     for i, obj in pairs(g_photo) do
         object=api.getElement(obj)
-        object.zoomScaleModifier = .7
+        object.zoomScaleModifier = 1.2
         object.pinScaleModifier = .3
         object.groundEulerAngles = api.vector3(270,0,0)
         
